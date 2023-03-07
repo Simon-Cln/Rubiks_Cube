@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\calar\OneDrive\Bureau\OneDrive\Bureau\Etudes\L3\SEMESTRE 2_L3\INFORMATIQUE\C\RUBIKS_CUBE\cmake-build-debug
+Cannot read CMakeCache.txt
+
+Please either delete it manually or select another generation directory

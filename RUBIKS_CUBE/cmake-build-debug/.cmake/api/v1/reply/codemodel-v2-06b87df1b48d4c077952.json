@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RUBIKS_CUBE",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RUBIKS_CUBE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RUBIKS_CUBE-Debug-5a64e7c28eb943f6e5bc.json",
+					"name" : "RUBIKS_CUBE",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Simon/OneDrive/Bureau/Etudes/L3/SEMESTRE 2_L3/INFORMATIQUE/C/RUBIKS_CUBE/cmake-build-debug",
+		"source" : "C:/Users/Simon/OneDrive/Bureau/Etudes/L3/SEMESTRE 2_L3/INFORMATIQUE/C/RUBIKS_CUBE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
